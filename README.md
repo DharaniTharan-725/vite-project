@@ -2,6 +2,10 @@
 
 AmaStore is a full-featured e-commerce platform built with React, TypeScript, and Supabase. It offers a modern, responsive design with a rich set of features for both customers and administrators.
 
+## 🌐 Live Demo
+
+Check out the live demo of AmaStore here: [https://e-commerce11111.netlify.app/](https://e-commerce11111.netlify.app/)
+
 ## 🚀 Features
 
 ### Customer Features
